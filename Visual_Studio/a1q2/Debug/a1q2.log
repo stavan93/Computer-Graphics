@@ -1,0 +1,97 @@
+﻿  camera.cpp
+C:\Project\Computer Graphics Assingments\camera.cpp(52,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(53,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(54,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(55,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(65,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(66,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(67,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(68,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(84,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(86,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(140,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(141,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(142,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(143,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  flat_lighter.cpp
+  gl_error.cpp
+  grid.cpp
+  mesh.cpp
+  name.cpp
+C:\Project\Computer Graphics Assingments\name.cpp(54,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(55,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(56,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(57,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(64,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(65,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(66,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(67,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(74,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(75,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(76,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(77,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(88,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(89,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(90,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(91,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(92,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(93,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(94,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(103,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(104,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(105,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(106,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(107,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(108,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(109,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(110,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(111,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(112,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(113,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(122,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(123,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(124,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(125,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(126,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(127,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(128,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(137,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(138,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(139,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(140,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(141,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(142,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(143,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(144,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(145,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(146,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(156,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(157,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(158,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(159,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(160,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(161,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(162,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(171,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(172,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(173,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(174,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(175,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(176,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(177,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(178,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(179,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(188,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(189,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(190,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(191,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(192,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\name.cpp(259,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  shader.cpp
+  util.cpp
+C:\Project\Computer Graphics Assingments\util.cpp(13,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  window.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  a1q2.vcxproj -> C:\Project\Computer Graphics Assingments\Visual_Studio\Debug\a1q1.exe

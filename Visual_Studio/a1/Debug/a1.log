@@ -1,0 +1,30 @@
+﻿  camera.cpp
+C:\Project\Computer Graphics Assingments\camera.cpp(52,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(53,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(54,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(55,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(65,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(66,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(67,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(68,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(84,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(86,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(140,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(141,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(142,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Project\Computer Graphics Assingments\camera.cpp(143,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  flat_lighter.cpp
+  gl_error.cpp
+  grid.cpp
+  mesh.cpp
+  shader.cpp
+  uncross.cpp
+C:\Project\Computer Graphics Assingments\uncross.cpp(37,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Project\Computer Graphics Assingments\uncross.cpp(119,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  util.cpp
+C:\Project\Computer Graphics Assingments\util.cpp(13,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+  window.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  a1.vcxproj -> C:\Project\Computer Graphics Assingments\Visual_Studio\Debug\a1q2.exe
