@@ -19,7 +19,7 @@ cpp_files = name.cpp mesh.cpp shader.cpp window.cpp gl_error.cpp grid.cpp \
 
 TARGET2 = uncross
 cpp_files2 = uncross.cpp mesh.cpp shader.cpp window.cpp gl_error.cpp grid.cpp \
-            camera.cpp util.cpp flat_lighter.cpp graph.cpp
+            camera.cpp util.cpp flat_lighter.cpp
 
 c_files = deps/glad.c
 
